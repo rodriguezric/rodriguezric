@@ -1,15 +1,9 @@
 - 👋 Hi, I’m @rodriguezric
+- I'm a Data Engineer
 - 👀 I’m interested in ...
-  * Deep Learning
-  * API
-  * Python
-  * C
-- 🌱 I’m currently learning ...
-  * Python
-    * Scikit-Learn
-    * FastAI
-    * FastAPI
-  * Docker
-  * OpenAPI
+  * Functional Programming Paradigm
+  * Data Structures and Algorithms
+  * Workflow Orchestration
+  * Data Pipelines
 - 📫 How to reach me ...
   * rodriguez.ric@gmail.com
