@@ -4,7 +4,6 @@
   * Game Development
   * API Development
   * Functional Programming Paradigm
-  * Data Structures and Algorithms
   * Constraint Optimization
 - 📫 How to reach me ...
   * rodriguez.ric@gmail.com
