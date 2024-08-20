@@ -5,6 +5,6 @@
   * API Development
   * Functional Programming Paradigm
   * Data Structures and Algorithms
-  * Workflow Orchestration
+  * Constraint Optimization
 - 📫 How to reach me ...
   * rodriguez.ric@gmail.com
