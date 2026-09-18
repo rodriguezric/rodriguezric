@@ -4,6 +4,6 @@ Hi, I’m @rodriguezric
   * Jiu Jitsu
   * Game Development
   * API Development
-  * Constraint Optimization
+
  How to reach me ...
-  * rodriguez.ric@gmail.com
+ - rodriguez.ric@gmail.com
